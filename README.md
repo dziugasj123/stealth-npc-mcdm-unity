@@ -21,4 +21,4 @@ This is a Unity 3D project where an NPC intelligently selects hiding spots using
 - Unity version: **2022.3.28f1 LTS**
 
 ## Gameplay demo
-[![Watch the video](https://youtu.be/VH9ivYNfitc)
+[![Watch the video](https://img.youtube.com/vi/VH9ivYNfitc/0.jpg)](https://youtu.be/VH9ivYNfitc)
